@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>f8faa35c-6852-4fe4-a3bc-703249d8e2f2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+  </ItemGroup>
+
+</Project>

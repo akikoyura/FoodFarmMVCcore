@@ -1,0 +1,12 @@
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\bin\Debug\netcoreapp2.0\FoodFarmMVCcore.deps.json
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\bin\Debug\netcoreapp2.0\FoodFarmMVCcore.runtimeconfig.json
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\bin\Debug\netcoreapp2.0\FoodFarmMVCcore.runtimeconfig.dev.json
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\bin\Debug\netcoreapp2.0\FoodFarmMVCcore.dll
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\bin\Debug\netcoreapp2.0\FoodFarmMVCcore.pdb
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.csprojAssemblyReference.cache
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.csproj.CoreCompileInputs.cache
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.AssemblyInfoInputs.cache
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.AssemblyInfo.cs
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.dll
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\FoodFarmMVCcore.pdb
+C:\Users\hmaik\Source\Repos\FoodFarmMVCcore\FoodFarmMVCcore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
